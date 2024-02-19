@@ -1,0 +1,17 @@
+{
+  "name": "derivativepredictor",
+  "version": "1.0.0",
+  "description": "Basic derivative price predictor using Monte-Carlo methods to solve the Black-Scholes equation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parth Deshmukh",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
